@@ -1,7 +1,20 @@
-header {
-     background-color: #8B0000;
-     color: white;
+body{
+     margin: 0;
+     padding: 0;
+}
+.cabeçalho{
+     background-color: #D9D9D9;
+     color: black;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 20px 0;
 }
 .cabeçalho-imagem{
-     width: 8%;
+     width: 5%;
+}
+.cabeçalho-item{
+     display: inline-block;
+     margin: 0 16px;
+     font-size: 24px;
 }
