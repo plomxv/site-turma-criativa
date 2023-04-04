@@ -3,7 +3,7 @@ body{
      padding: 0;
 }
 .cabeçalho{
-     background-color: #D9D9D9;
+     background-color: #FFFFFF;
      color: black;
      display: flex;
      justify-content: space-around;
@@ -17,4 +17,12 @@ body{
      display: inline-block;
      margin: 0 16px;
      font-size: 24px;
+}
+.One-Direction-imagem{
+     width: 25%;
+}
+.One-Direction{
+     background-image: linear-gradient(#BE000B, #000000);
+     color: white;
+     display: flex;
 }
