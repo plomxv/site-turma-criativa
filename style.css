@@ -3,12 +3,12 @@ body{
      padding: 0;
 }
 .cabeçalho{
-     background-color: #FFFFFF;
-     color: black;
+     background-color: #BE000B;
+     color: white;
      display: flex;
      justify-content: space-around;
      align-items: center;
-     padding: 20px 0;
+     padding: 5px 0;
 }
 .cabeçalho-imagem{
      width: 5%;
@@ -16,7 +16,7 @@ body{
 .cabeçalho-item{
      display: inline-block;
      margin: 0 16px;
-     font-size: 24px;
+     font-size: 25px;
 }
 .One-Direction-imagem{
      width: 25%;
@@ -25,4 +25,16 @@ body{
      background-image: linear-gradient(#BE000B, #000000);
      color: white;
      display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 10%;
+}
+.One-Direction-titulo{
+     font-size: 140%;
+}
+.One-Direction-texto-um{
+     font-size: 125%;
+}
+.One-Direction-texto-dois{
+     font-size: 125%;
 }
