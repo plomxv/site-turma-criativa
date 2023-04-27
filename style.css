@@ -45,9 +45,10 @@ body{
      width: 100%;
 }
 .rodape{
-  background-color: black;
-  font-size: 25px;
-  text-align: ;
+  background-color: #000000;
+  color: white;
+  text-align: right;
+  padding: 10px 0;
 }
 
 
