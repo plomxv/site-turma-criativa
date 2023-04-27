@@ -42,10 +42,19 @@ body{
      width: 30%;
 }
 .meninos{
+     font-size: 25px;
+     font-style: italic;
      text-align: center;
      padding: 50px 0;
 }
 .meninos-div1{
      display: grid;
-     grid-template-columns: 20% 20% 20% 20% 20%;
+     grid-template-columns: 20% 20% 20%;
+}
+.div-niall{
+     padding: 15%;
+}
+.meninos-div2{
+     display: grid;
+     grid-template-columns: 20% 20% 20%;
 }
