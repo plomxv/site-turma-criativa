@@ -33,44 +33,57 @@ body{
      font-size: 40px;
 }
 .One-Direction-texto-um{
-     font-size: 35px;
+     font-size: 25px;
 }
 .One-Direction-texto-dois{
-     font-size: 35px;
+     font-size: 25px;
 }
 .fotos-meninos{
      width: 30%;
 }
-.principal{
-     width: 100%;
+.logoesc{
+     position:absolute;
+     left:80%;
+     top:15%;
 }
+
+.imagem-prof{
+    width: 208px;
+    height: 195px;
+}
+
+.icones{
+    width: 24px;
+    margin: 0px 20px; 
+}
+
+.prof-nome{
+    margin: 0px 40px;
+}
+
+.prof-div{
+    text-align: center;
+}
+
+.professores-titulo{
+    text-align: center;
+    padding: 30px 0;
+}
+
+.prof-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.professores{
+    background-image: linear-gradient;
+    color: #000000;
+}
+
 .rodape{
-  background-color: #000000;
-  color: white;
-  text-align: right;
-  padding: 10px 0;
+    background-color: #000000;
+    color: #000000;
+    text-align: right;
+    padding: 10px 0;
 }
 
-
-
-
-
-
-
-.meninos{
-     font-size: 25px;
-     font-style: italic;
-     text-align: center;
-     padding: 50px 0;
-}
-.meninos-div1{
-     display: grid;
-     grid-template-columns: 20% 20% 20%;
-}
-.div-niall{
-     padding: 15%;
-}
-.meninos-div2{
-     display: grid;
-     grid-template-columns: 20% 20% 20%;
-}
